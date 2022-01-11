@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maximilian
+My name is Maximilian!
 
 Here are some stats!
 <!--
