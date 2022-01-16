@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
+<!-- 
+&exclude_repo=github-readme-stats,anuraghazra.github.io -->
 
 
 ![Anurag's GitHub stats](https://maxwell929-stats-maxwell929.vercel.app/api?username=maxwell929&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://maxwell929-stats-maxwell929.vercel.app/api/top-langs/?username=maxwell929&theme=aura&langs_count=8&layout=compact&card_width=800?exclude_repo=Bauteam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://maxwell929-stats-maxwell929.vercel.app/api/top-langs/?username=maxwell929&theme=aura&langs_count=8&layout=compact&card_width=800?exclude_repo=Bauteam,Maxwell929.github.com)](https://github.com/anuraghazra/github-readme-stats)
 
