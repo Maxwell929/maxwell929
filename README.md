@@ -32,6 +32,6 @@ Here are some ideas to get you started:
             
             
             
-[![Top Langs](https://maxwell929-stats-maxwell929.vercel.app/api/top-langs/?username=maxwell929&theme=aura&langs_count=8&layout=compact&card_width=800?exclude_repo=Bauteam&hide=html,swift,Cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://maxwell929-stats-maxwell929.vercel.app/api/top-langs/?username=maxwell929&theme=aura&langs_count=8&layout=compact&card_width=800?exclude_repo=Bauteam,maxwell929.github.io&hide=html,swift,Cmake)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
