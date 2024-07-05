@@ -4,7 +4,7 @@
 
 My name is Maximilian!
 
-Here are some stats!
+
 <!--
 
 
